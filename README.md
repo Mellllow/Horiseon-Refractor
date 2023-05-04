@@ -1,2 +1,1 @@
-# Horiseon-Refractor
-Homework 1
+# Code Refactor Starter Code
